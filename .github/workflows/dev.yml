@@ -1,9 +1,0 @@
-name: CI/CD pipeline
-
-on: 
-  push:
-    branches: [dev]
-
-jobs:
-  build:
-    
