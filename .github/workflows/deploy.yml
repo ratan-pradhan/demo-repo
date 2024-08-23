@@ -22,5 +22,5 @@ jobs:
 
       - name: Run streamlit app
         run: |
-          streamlit run 
+          streamlit run try.py
           
